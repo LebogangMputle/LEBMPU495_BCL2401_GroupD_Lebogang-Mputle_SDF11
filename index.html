@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="./assets/css/theme.css">
     <link rel="stylesheet" href="./assets/css/loopple/loopple.css">
 </head>
-
 <body class="bg-gray-100"> <!--Using tail wind to add a background color-->
     <div class="bg-white mx-auto">
         <div class="relative flex flex-wrap items-center justify-between w-full bg-white py-7 shrink-0">
@@ -354,12 +353,12 @@
  <div class="w-full">
     <div class="contianer flex flex-col items-center gap-16 mx-auto my-32">
         <div class="grid w-full grid-cols-1 gap-32 lg:grid-cols-2">
-            <div class="bg:cover bg:center hidden lg:block rounded-3xl" style="background-image: url(&quot;https://i.ibb.co/b1kwzHk/2.png&quot;);">
+            <div class="bg:cover bg:center hidden lg:block rounded-3xl" style="background-image: url(&quot;https://i.ibb.co/b1kwzHk/2.png&quot;); height: 100%; width: 100%; background-size: contain; background-position: center; background-repeat: no-repeat;">
             </div>
             <div class="flex flex-col gap-16">
                 <div class="flex flex-col gap-2 text-center md:text-start">
                     <h2 class="text-3xl font-extrabold md:text-4xl lg:text-5xl text-dark-grey-900">How Cache Works?</h2>
-                    <p class="text-base font-medium leading-7 text-dark-grey-600"><span style="color: rgb(55, 65, 81); font-family: 'SÖhne, ui-sans-serif, system-ui, -apple-system"></span></p>
+                    <p class="text-base font-medium leading-7 text-dark-grey-600"><span style="color: rgb(55, 65, 81); font-family: SÖhne, ui-sans-serif, system-ui, -apple-system"></span></p>
                 </div>
             </div>
         </div>
@@ -376,8 +375,7 @@
 
     <!--javascript for the navtoggle-->
     <script>
-        document
-        .getElementById("mobile-menu-toggle")
+        document.getElementById("mobile-menu-toggle")
         .addEventListener("click", function() {
             document.getElementById("mobile-menu").classList.toggle("hidden");
         });
