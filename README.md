@@ -10,8 +10,8 @@ Organizing components and ensuring responsive design, these challenges where
 
 Learning Outcomes:
 
-Enhanced understanding of semantic HTML and its importance for accessibility and search engine optimization.
-Improved skills in structuring and organizing complex layouts for responsive design.
+1.Enhanced understanding of semantic HTML and its importance for accessibility and search engine optimization.
+2.Improved skills in structuring and organizing complex layouts for responsive design.
 
 # Tailwind css challenges
 Tailwind css facilitated rapid prototyping and styling of components but presented challenges in managing utility classes and responsives design. these included:
@@ -21,8 +21,8 @@ Tailwind css facilitated rapid prototyping and styling of components but present
 
 Learning Outcomes:
 
-Proficiency in leveraging utility-first CSS frameworks like Tailwind CSS for efficient styling and development.
-Ability to customize and extend CSS frameworks to suit specific design needs.
+1.Proficiency in leveraging utility-first CSS frameworks like Tailwind CSS for efficient styling and development.
+2.Ability to customize and extend CSS frameworks to suit specific design needs.
 
 # Grid Challenges
 Grid layouts were used to structure sections and align content across different screen sizes. Challenges included:
@@ -33,8 +33,8 @@ Grid layouts were used to structure sections and align content across different 
 
 Learning Outcomes:
 
-Deepened understanding of CSS Grid and its capabilities for creating flexible and responsive layouts.
-Skill development in designing grid-based layouts that maintain consistency and adaptability across devices.
+1.Deepened understanding of CSS Grid and its capabilities for creating flexible and responsive layouts.
+2.Skill development in designing grid-based layouts that maintain consistency and adaptability across devices.
 
 # Flexbox Challenges
 Flexbox was employed to align and distribute items within containers, particularly in navigation menus and content sections. Challenges included:
@@ -45,8 +45,8 @@ Flexbox was employed to align and distribute items within containers, particular
 
 Learning Outcomes:
 
-Mastery of Flexbox concepts and techniques for building flexible and efficient layouts.
-Ability to solve complex layout challenges by leveraging Flexbox's powerful alignment.
+1.Mastery of Flexbox concepts and techniques for building flexible and efficient layouts.
+2.Ability to solve complex layout challenges by leveraging Flexbox's powerful alignment.
 
 # JavaScript Challenges
 JavaScript was utilized to implement interactive features such as mobile navigation toggles and these challenges included:
@@ -55,8 +55,8 @@ JavaScript was utilized to implement interactive features such as mobile navigat
 
 Learning Outcomes:
 
-Improved proficiency in JavaScript programming, particularly in DOM manipulation and event handling.
-Enhanced understanding of JavaScript's role in creating interactive and dynamic web experiences.
+1.Improved proficiency in JavaScript programming, particularly in DOM manipulation and event handling.
+2.Enhanced understanding of JavaScript's role in creating interactive and dynamic web experiences.
 
 # Following the prescribed video's to complete the website challenges:
 1. Some of the videos where really difficult to follow because of the video quality and long codes which needed to be typed manually without coping and pasting them.
