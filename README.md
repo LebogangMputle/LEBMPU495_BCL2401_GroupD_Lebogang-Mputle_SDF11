@@ -1,3 +1,6 @@
+# slideshow presentation link:
+https://docs.google.com/presentation/d/1Ot8uTLJzf8X6wYA5CnBGw9vKpwXknhNpxPZ8PnqpiSU/edit?usp=sharing
+
 # Introduction
 # 1. Project Overview
 This project was aimed to test the our html,css and javascript skills more specifically using tailwind and I found tailwind as an easier to use frame works compared to using straight css which creates long codes which can cause you to make simple mistakes. I found this project very educational because I was able to learn a lot when it comes to styling and using both grid and flex box for layout styles.
